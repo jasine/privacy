@@ -9,6 +9,10 @@ body {
 [class*="dom-heading"] {
   margin: 0;
 }
+a:link { text-decoration:underline; color: white}
+a:active { text-decoration:blink}
+a:hover { text-decoration:underline;color: Blue}
+
 #nav-bar .navbar-inner {
   background: rgba(255, 255, 255, 0.278431);
   border: none;
